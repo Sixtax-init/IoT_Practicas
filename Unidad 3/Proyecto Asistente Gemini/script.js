@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AIzaSyAP4huhhJXJ_0kSzbOrLcXQYStJmwOgztA";
+const GEMINI_API_KEY = "API_KEY";
 const MODEL = "gemini-2.0-flash"; 
 
 const promptInput = document.getElementById("prompt");
